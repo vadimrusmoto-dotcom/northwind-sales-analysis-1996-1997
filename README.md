@@ -22,5 +22,5 @@
 - `sql_query.sql` — запрос с JOIN и GROUP BY
 - `sales_by_month_category.csv` — данные для анализа
 
-## 👤 Автор
+## Автор
 Твоё имя / GitHub-ссылка
