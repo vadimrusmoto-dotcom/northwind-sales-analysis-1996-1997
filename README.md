@@ -16,14 +16,13 @@
 - Динамика топ-5 категорий показана на графике
 
 ## Python-код
-Ноутбук: `northwind_analysis.ipynb`
+Ноутбук: `northwind_analysis.ipynb`(pandas, matplotlib, seaborn)
 
 ## Файлы
 - `sql_query.sql` - запрос с JOIN и GROUP BY
 - `sales_by_month_category.csv` - данные для анализа
-- 'northwind_analysis.ipynb' - код Pyton (pandas, matplotlib, seaborn)
 ## Скрин результата запроса
-<img width="860" height="908" alt="image" src="https://github.com/user-attachments/assets/00ced011-46d9-4697-abba-184848d89247" />
+<img width="430" height="454" alt="image" src="https://github.com/user-attachments/assets/00ced011-46d9-4697-abba-184848d89247" />
 
 
 ## Автор
