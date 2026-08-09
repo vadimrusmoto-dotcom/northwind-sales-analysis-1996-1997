@@ -21,6 +21,9 @@
 ## Файлы
 - `sql_query.sql` — запрос с JOIN и GROUP BY
 - `sales_by_month_category.csv` — данные для анализа
+## Скрин результата запроса
+<img width="860" height="908" alt="image" src="https://github.com/user-attachments/assets/00ced011-46d9-4697-abba-184848d89247" />
+
 
 ## Автор
 [Вадим] — [vad.litko@yandex.ru]
