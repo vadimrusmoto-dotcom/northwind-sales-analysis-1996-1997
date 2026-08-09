@@ -23,4 +23,4 @@
 - `sales_by_month_category.csv` — данные для анализа
 
 ## Автор
-Твоё имя / GitHub-ссылка
+[Вадим] — [vad.litko@yandex.ru]
