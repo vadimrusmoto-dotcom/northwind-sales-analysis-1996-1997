@@ -1,6 +1,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![DataLens](https://img.shields.io/badge/DataLens-Yandex-blue)
 # Анализ продаж Northwind (1996–1997)
 
 ## Описание проекта
