@@ -25,6 +25,7 @@
 - `sales_by_month_category.csv` - данные для анализа
 ## Скрин результата запроса
 <img width="430" height="454" alt="image" src="https://github.com/user-attachments/assets/00ced011-46d9-4697-abba-184848d89247" />
+
 ## Скрин струкуры базы данных
 <img width="444" height="850" alt="image" src="https://github.com/user-attachments/assets/c3a7fe76-7829-4154-9dc7-b0774f564b9b" />
 
